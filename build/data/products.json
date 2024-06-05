@@ -1,0 +1,58 @@
+[
+	{
+		"id": "01",
+		"img": "product1.png",
+		"percent": "10%",
+		"text": "LPGvaporizer model KDV-100. Electricdry-type by KGE company.",
+		"viewing": "6900"
+	},
+	{
+		"id": "02",
+		"img": "product2.png",
+		"percent": "10%",
+		"text": "LPG vaporizer model KBV-1500. With a gas burner for indirect gas heating through glycol (Indirect fire) by KGE company.",
+		"viewing": "7415"
+	},
+	{
+		"id": "03",
+		"img": "product3.png",
+		"percent": "10%",
+		"text": "Blender SNG MGA-3000 (LPG + Air). Mixer Gas Automatic Propan Air by I-MAXIMUM company",
+		"viewing": "1852"
+	},
+	{
+		"id": "04",
+		"img": "product4.png",
+		"percent": "10%",
+		"text": "Gas boiler AY 100, condesing, for outdoor installation for water vaporizes LPG. Smooth operation of the device up to -25°C air temperature by Robur company",
+		"viewing": "5914"
+	},
+	{
+		"id": "05",
+		"img": "product5.png",
+		"percent": "10%",
+		"text": "Containerized LPG vaporization station 500 kg/h water with vaporizes LPG model KWV. Operating temperature - 25°C with outdoor gas boiler AY 100 by I-MAXIMUM company",
+		"viewing": "6900"
+	},
+	{
+		"id": "06",
+		"img": "product6.png",
+		"percent": "10%",
+		"text": "LPGvaporizer model KWV-500. Water-type(with hot water circulation) by KGE company.",
+		"viewing": "1852"
+	},
+	{
+		"id": "07",
+		"img": "product7.png",
+		"percent": "10%",
+		"text": "LPGvaporizer model KWV-500. Water-type(with hot water circulation) by KGE company.",
+		"viewing": "7415"
+	},
+	{
+		"id": "08",
+		"img": "product8.png",
+		"percent": "10%",
+		"text": "LPG vaporizer model KEV-150-SR. Electric water-type by KGE company.",
+		"viewing": "5914"
+	}
+]

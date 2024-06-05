@@ -1,0 +1,26 @@
+[
+	{
+		"id": "01",
+		"img": "services1.svg",
+		"title": "Welding of gas equipment",
+		"views": "122"
+	},
+	{
+		"id": "02",
+		"img": "services2.svg",
+		"title": "Technical design",
+		"views": "88"
+	},
+	{
+		"id": "03",
+		"img": "services3.svg",
+		"title": "Installation of gas equipment",
+		"views": "109"
+	},
+	{
+		"id": "04",
+		"img": "services4.svg",
+		"title": "Supply of LPG and SNG equipment",
+		"views": "101"
+	}
+]

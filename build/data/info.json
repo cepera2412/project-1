@@ -1,0 +1,26 @@
+[
+	{
+		"id": "01",
+		"img": "info1.png",
+		"title": "About company",
+		"views": "152"
+	},
+	{
+		"id": "02",
+		"img": "info2.png",
+		"title": "Certificate",
+		"views": "102"
+	},
+	{
+		"id": "03",
+		"img": "info3.png",
+		"title": "Our installations",
+		"views": "99"
+	},
+	{
+		"id": "04",
+		"img": "info4.png",
+		"title": "About company KGE",
+		"views": "141"
+	}
+]

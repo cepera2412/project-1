@@ -1,0 +1,58 @@
+[
+	{
+		"id": "01",
+		"img": "news1.png",
+		"data": "APRIL 26, 2024",
+		"viewing": "1898",
+		"link": "We invite you to the presentation of Manufacturing I-MAXIMUM"
+	},
+	{
+		"id": "02",
+		"img": "news2.png",
+		"data": "April 24, 2024",
+		"viewing": "4128",
+		"link": "I-MAXIMUM Rebranding"
+	},
+	{
+		"id": "03",
+		"img": "news3.png",
+		"data": "November 13-17, 2023",
+		"viewing": "9541",
+		"link": "I-MAXIMUM at LPG WEEK 2023 in Rome"
+	},
+	{
+		"id": "04",
+		"img": "news4.png",
+		"data": "October 11-12, 2023",
+		"viewing": "7541",
+		"link": "I-MAXIMUM at the Endress+Hauser Conference"
+	},
+	{
+		"id": "05",
+		"img": "news5.png",
+		"data": "october, 2023",
+		"viewing": "1898",
+		"link": "I-MAXIMUM is a proud member of the POGP association."
+	},
+	{
+		"id": "06",
+		"img": "news6.png",
+		"data": "May 22-24, 2023",
+		"viewing": "4128",
+		"link": "I-MAXIMUM at the \"Gas in Power Engineering\" Conference"
+	},
+	{
+		"id": "07",
+		"img": "news7.png",
+		"data": "April 27-28, 2023",
+		"viewing": "9541",
+		"link": "I-Maximum at the Gas Fuels Forum 2023"
+	},
+	{
+		"id": "08",
+		"img": "news8.png",
+		"data": "April 19-20, 2023",
+		"viewing": "7541",
+		"link": "I-MAXIMUM at EXPOGAS 2023"
+	}
+]
