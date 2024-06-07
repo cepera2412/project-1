@@ -655,6 +655,7 @@ body {
 
 body {
   overflow-x: hidden;
+  overflow-y: hidden;
   min-width: 320px;
   min-height: 100vh;
   font-family: "Inter", sans-serif, Arial, sans-serif;
