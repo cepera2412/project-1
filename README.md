@@ -1,5 +1,5 @@
 ## Верстка частини сайта (головна сторінка) проекту фірми.
-![Иллюстрация к проекту](https://github.com/cepera2412/project-1/tree/main/docs/img/logo-slogan.svg)
+![Иллюстрация к проекту](https://github.com/cepera2412/project-1/raw/main/docs/img/logo-slogan.svg)
 
 - JS
 - SCSS
